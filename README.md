@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/48849171/82749028-09b18080-9dc4-11ea-8da1-200f5eb20637.jpg" width=900 height=570>
 
 
-## Here are my work snapshots on Tableau.
+## <span style="color:blue">Here are my work snapshots on Tableau.</span>
 
 
 <table>
