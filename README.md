@@ -5,7 +5,7 @@
 - Customer segmentation and Data visualization using Tableau.
 
 
-![KPMG-page-001](https://user-images.githubusercontent.com/48849171/82749028-09b18080-9dc4-11ea-8da1-200f5eb20637.jpg)
+<img src="https://user-images.githubusercontent.com/48849171/82749028-09b18080-9dc4-11ea-8da1-200f5eb20637.jpg" width=900 height=570>
 
 
 ## Here are my work snapshots on Tableau.
@@ -22,7 +22,6 @@
     <td><img src="https://user-images.githubusercontent.com/48849171/82748897-20a3a300-9dc3-11ea-969e-d7f329f4fe01.png" width=770 height=480></td></tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/48849171/82748873-e0442500-9dc2-11ea-9d63-2db2bcc32125.png" width=770 height=480></td></tr>
-  
   <tr>
     <td><img src="https://user-images.githubusercontent.com/48849171/82748900-26998400-9dc3-11ea-947b-a6ec35c3876e.png" width=770 height=480></td>
   </tr>
