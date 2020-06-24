@@ -8,7 +8,7 @@
 ![KPMG-page-001](https://user-images.githubusercontent.com/48849171/82749028-09b18080-9dc4-11ea-8da1-200f5eb20637.jpg)
 
 
-## Here are my work snapshots on tableau.
+## Here are my work snapshots on Tableau.
 
 
 <table>
